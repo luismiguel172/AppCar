@@ -8,6 +8,11 @@
     android:layout_height="match_parent"
     tools:context=".Login_Activity">
 
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/car"
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
